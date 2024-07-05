@@ -810,7 +810,7 @@ class PlayState extends MusicBeatState
 			case 'bf' | 'bf-car' | 'bf-pixel' | 'bf-christmas':
 				p2Color = 0xFF31B0D1;
 			case ‎'ui_shaggy' | 'shaggypowerup':
-				p2Color = 0xFFA872FF;
+				p1Color = 0xFFA872FF;
 			default:
 				p2Color=0xFFFF0000;
 		}
